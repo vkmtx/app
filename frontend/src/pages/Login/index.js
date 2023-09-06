@@ -21,8 +21,8 @@ const Copyright = () => {
 	return (
 		<Typography variant="body2" color="primary" align="center">
 			{"Copyright "}
- 			<Link color="primary" href="#">
- 				PLW
+ 			<Link color="primary" href="https://notio.com.br">
+ 				NOTIO
  			</Link>{" "}
  			{new Date().getFullYear()}
  			{"."}
