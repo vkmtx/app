@@ -11,7 +11,7 @@ module.exports = {
           [
             {
               name: "Admin",
-              email: "admin@notio.com.br",
+              email: "admin@admin.com",
               profile: "admin",
               passwordHash,
               companyId: 1,
