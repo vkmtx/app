@@ -28,6 +28,13 @@ module.exports = {
               dueDate: "2093-03-14 04:00:00+01",
               createdAt: new Date(),
               updatedAt: new Date()
+            },
+            {
+              name: "Empresa 2",
+              planId: 1,
+              dueDate: "2093-03-14 04:00:00+01",
+              createdAt: new Date(),
+              updatedAt: new Date()
             }
           ],
           { transaction: t }

@@ -18,7 +18,18 @@ module.exports = {
               createdAt: new Date(),
               updatedAt: new Date(),
               super: true
+            },
+            {
+              name: "Admin2",
+              email: "admin2@admin.com",
+              profile: "admin2",
+              passwordHash,
+              companyId: 1,
+              createdAt: new Date(),
+              updatedAt: new Date(),
+              super: false
             }
+            
           ],
           { transaction: t }
         )
