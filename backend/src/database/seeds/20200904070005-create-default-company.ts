@@ -12,7 +12,8 @@ module.exports = {
               users: 10,
               connections: 10,
               queues: 10,
-              value: 30,
+              value: 0,
+              dueDate: "2093-03-14 04:00:00+01",
               createdAt: new Date(),
               updatedAt: new Date()
             }
